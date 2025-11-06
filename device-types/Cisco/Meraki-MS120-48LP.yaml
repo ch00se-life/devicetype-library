@@ -5,6 +5,8 @@ slug: cisco-meraki-ms120-48lp
 part_number: MS120-48LP-HW
 weight: 5.70
 weight_unit: kg
+front_image: true
+rear_image: true
 u_height: 1
 is_full_depth: false
 comments: '[MS120 Overview and Specifications](https://meraki.cisco.com/lib/pdf/meraki_datasheet_ms120.pdf)'
